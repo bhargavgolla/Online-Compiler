@@ -1,0 +1,84 @@
+body
+{
+	background-color:#c8c8c8;
+}
+#whole
+{
+	background-color:#ffffff;
+	margin: 0 auto;
+}
+/*img.BITS_logo{
+	float:left;
+}*/
+/*img.top_bar{
+	float:right;
+}*/
+#header{
+	border:20px solid white;
+	border-bottom: 20px solid #211d71;;
+}
+#header img{
+	padding-bottom:10px;
+}
+img.title_name{
+	float:right;
+}
+
+img.top_bar{
+	position:absolute;
+	right:10px;
+	top:150px;
+}
+#block{
+	color: #211d71;
+}
+#content
+{
+	padding: 10px 10px;
+	margin:inherit;
+}
+#logout
+{
+	padding:3px;
+	text-align:right;
+}
+#bottom
+{
+	margin:inherit;
+	color: #8b8a8a;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	margin-top:15px;
+}
+#login_portal
+{
+	padding-top: 100px;
+	padding-bottom:100px;
+	margin:auto;
+	width:20%;
+}
+p.descri
+{
+	width:400px;
+	float:left;
+}
+img.bottom_bar{
+	position:absolute;
+	left:10px;
+}
+img.tagline{
+	position:absolute;
+	right:10px;
+}
+table.code{
+	border:1px solid green;
+}
+td.code{
+	vertical-align:top;
+	padding:15px;
+	border:1px solid green;
+}
+/*font.error{
+	position:absolute;
+	left:300px;
+}*/
