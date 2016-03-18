@@ -1,7 +1,7 @@
 <html>
 	<head>
-		<title>Online Compiler for Off-Campus Students</title>
-		<meta name="keywords" content="BITS,OffCampus,Pilani,Compiler,WILPD" />
+		<title>Online Compiler</title>
+		<meta name="keywords" content="Online,Compiler,Online Compiler" />
 		<link rel="shortcut icon" href="styles/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="styles/style.css" />	
 	</head>
@@ -55,3 +55,4 @@
 	</div>
 	</body>
 </html>
+
