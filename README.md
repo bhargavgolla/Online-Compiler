@@ -12,7 +12,7 @@ Users can do two things:
 This application was developed by [Bhargav Golla](https://github.com/bhargavgolla) and [Venkat Sandeep](https://github.com/sandy92).
 
 ## INSTALL
-These setup instructions are specific to Ubuntu. This project was tested only on Ubuntu 14.04 server.
+These setup instructions are specific to Ubuntu. This project was tested on Ubuntu 14.04 and 22.04 server.
 
 ### Prerequisites
 * LAMP stack
@@ -23,7 +23,7 @@ These setup instructions are specific to Ubuntu. This project was tested only on
 
 To get above packages and tools, run
 
-	sudo apt-get install lamp-server^ gcc g++ default-jdk python python3
+	sudo apt-get install lamp-server^ gcc g++ default-jdk python2 python3
 
 Checkout this repo.
 
